@@ -1,5 +1,6 @@
 # git
 I am learning git.
+Yayyyyyyyyyyy
 This is my first commit.
 Nice to meet yall................
 LOVE YOU ALLLLLLLLL............
